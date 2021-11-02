@@ -1,0 +1,33 @@
+.nav {
+    justify-content: space-between;
+    align-items: center;
+}
+
+body {
+    color: black;
+}
+
+#about {
+    
+}
+
+
+#contact {
+
+    
+}
+
+.flex {
+    display: flex;
+}
+
+p {
+    color: black;
+}
+
+img {
+    height: 10%;
+    width: 15%;
+    border: ridge;
+    /* float: left; */
+}
