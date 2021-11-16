@@ -31,3 +31,7 @@ img {
     border: ridge;
     
 }
+
+.container1 {
+    display: flex;
+}
